@@ -27,7 +27,7 @@ $config['modules_locations'] = array(
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/practice/';
+$config['base_url'] = 'http://localhost/store/';
 
 /*
 |--------------------------------------------------------------------------
