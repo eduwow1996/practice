@@ -32,7 +32,7 @@
         <div class="small-box bg-warning">
             <div class="inner">
                 <h3>44</h3>
-                <p>User Registered on password 4 days</p>
+                <p>User Registered on past 4 days</p>
             </div>
             <div class="icon">
                 <i class="ion ion-person-add"></i>
